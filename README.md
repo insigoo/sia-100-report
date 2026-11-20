@@ -62,11 +62,11 @@ python sia_100_compute_public.py
 
 **建议引用格式**：
 
-> insigoo 工作室. 《互联网公益项目逻辑自洽性百项快检观察——基于 insigoo SIA 社会影响力评估框架的腾讯公益平台 100 个项目扫描》[EB/OL]. github.com/ericyueric/sia-100-report, 2026-08. CC BY-NC-SA 4.0.
+> insigoo 工作室. 《互联网公益项目逻辑自洽性百项快检观察——基于 insigoo SIA 社会影响力评估框架的腾讯公益平台 100 个项目扫描》[EB/OL]. github.com/insigoo/sia-100-report, 2026-08. CC BY-NC-SA 4.0.
 
 **评估框架本身的许可不同**：本仓库是研究报告的配套数据包。研究所用的评估框架
 insigoo SIA 是独立开源项目，采用 **MIT 许可**，见
-<https://github.com/ericyueric/insigoo-sia-open>。两者许可不同，请分别遵守。
+<https://github.com/insigoo/insigoo-sia-open>。两者许可不同，请分别遵守。
 
 ---
 
